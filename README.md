@@ -2,7 +2,7 @@
 
 *WiBB*: an integrated method for quantifying the relative importance of predictive variables
 
-Authors: Kou, Xiaojun; Li, Qin
+Authors: Li, Qin; Kou, Xiaojun
 
 (accepted for publication in Ecography)
 
