@@ -28,6 +28,6 @@ Authors: Li, Qin; Kou, Xiaojun
 ### R scripts
 
 - Rscripts\_0\_functions.R: custrom functions, including data simulation, data sampling, and counting the correct ranking frequency;
-- Rscripts\_1\_data\_simulation.R: data simulation
-- Rscripts\_2\_analysis.R: model fitting and metric calculation
-- Rscripts\_3\_empirical_dataset.R: application on *Mimulus*
+- Rscripts\_1\_data\_simulation.R: data simulation and sub-sampling for later LM and GLM;
+- Rscripts\_2\_analysis.R: LM and GLM model fitting and calculations of variable importance by four indices: SW, SWi, beta*, WiBB, with varying sample sizes and bootstrap replicates;
+- Rscripts\_3\_empirical_dataset.R: apply WiBB method to an empirical dataset of 71 *Mimulus* species;
