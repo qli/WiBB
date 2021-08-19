@@ -1,7 +1,7 @@
 ### R scripts for supporting the findings of article:
 ### Title: WiBB: an integrated method for quantifying the relative importance of predictive variables
 ### Authors: Qin Li, Xiaojun Kou
-### DOI: (Ecography under review with revision)
+### Ecography；DOI: 10.1111/ecog.05651
 
 # content
 # 1. LM dataset simulation: 200 datasets
