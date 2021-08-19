@@ -14,8 +14,8 @@ Authors: Li, Qin; Kou, Xiaojun
 	+ dt\_lm\_r3 (correlation structure: *r* = 0.8, 0.6, 0.3, 0.0);
 
 - sub_datasets: resampled datasets with varying sample sizes from the full datasets for fitting LM and GLM separately;
-	+ dataset_lm: R data (*.rds*) for three correlation structures $\times$ six sample sizes (25, 50, 100, 200, 500, 1000);
-	+ dataset_glm: R data (*.rds*) for three correlation structures $\times$ six sample sizes (25, 50, 100, 200, 500, 1000);
+	+ dataset_lm: R data (*.rds*) for three correlation structures and six sample sizes (25, 50, 100, 200, 500, 1000);
+	+ dataset_glm: R data (*.rds*) for three correlation structures and six sample sizes (25, 50, 100, 200, 500, 1000);
 
 - fit_result: example LM and GLM fitting results with the sample size = 1000;
 	+ r1\_s6\_lm\_res.rds: an example fitting result by linear model, including estimates of variable importance based on sum of weight (sw), relative sum of weight (s_wi), standardized beta regression (b\_star), *WiBB* (wi), and model ranking of the full candidate model set (ms.rank);
